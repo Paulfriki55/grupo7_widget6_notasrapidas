@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">QuickNotesWidget</string>
+    <string name="add_todo">Agregar tarea</string>
+    <string name="save">Guardar</string>
+    <string name="hint_edit_note">Escribe tu nota aquí</string>
+    <string name="default_note_text">Nueva nota</string>
+    <string name="widget_title">Nota Rápida</string>
+    <string name="desc_edit_note">Editar nota</string>
+    <string name="todo_list">Lista de Tareas</string>
+</resources>
+
